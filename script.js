@@ -27,6 +27,7 @@ boxes.forEach((box, index) => {
       turnO = true;
     }
 
-    box.disable;
+    box.disable
+
   })
 })
